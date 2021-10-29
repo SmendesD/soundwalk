@@ -1,3 +1,3 @@
-# paisagens
+# soundwalk
 
-https://smendesd.github.io/paisagens/
+https://smendesd.github.io/soundwalk/
